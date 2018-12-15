@@ -1,0 +1,12 @@
+[package]
+name = "hebrew-calendar"
+version = "0.1.0"
+authors = ["shiqmah <shiqmah@protonmail.com>"]
+description = "A Hebrew Calendar Library in Rust"
+keywords = ["hebrew", "calendar"]
+license = ""
+readme = "README.md"
+repository = "https://github.com/shiqmah/hebrew-calendar"
+edition = "2018"
+
+[dependencies]
